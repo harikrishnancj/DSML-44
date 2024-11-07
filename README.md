@@ -7,3 +7,8 @@ Assignment 1
 Assignement 2
 
        Addcolumn,select column,sum,if,new measure new column,dateddiff,standarddiv,sumx;
+Assignment 3
+
+      charts, maps,slicer ,measure,filter report level,drills ,hierarchies
+
+   
